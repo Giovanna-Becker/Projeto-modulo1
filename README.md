@@ -1,2 +1,3 @@
-# ProjetoGen
-Primeiro projeto Generation: Barbara, Camila Nathalia, Giovana e Paloma.
+# Projeto Módulo 1
+#### Primeiro projeto da Generation em grupo
+Grupo do projeto: Barbara Ayres, Camila Melo, Nathalia Nascimento, Giovanna Becker e Paloma Freire.
