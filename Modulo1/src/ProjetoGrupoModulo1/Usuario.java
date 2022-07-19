@@ -1,13 +1,11 @@
-package ModuloUm;
-
+package ProjetoGrupoModulo1;
 
 public class Usuario {
 
 	public static void main(String[] args) {
 		
 		Humanas usuario1 = new Humanas("Paloma");
-		Exata usuario2 = new Exata ("aluno");
-		
+		Exata usuario2 = new Exata("aluno");
 		
 		usuario1.area("curso");
 		usuario1.setDataNasc("09/06/1994");
@@ -23,9 +21,6 @@ public class Usuario {
 		usuario2.InscricaoConcluida();
 		System.out.println();
 		
-		
-		
-	
 	}
 
 }

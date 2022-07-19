@@ -1,4 +1,4 @@
-package ModuloUm;
+package ProjetoGrupoModulo1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ModuloUm;
+package ProjetoGrupoModulo1;
 
 public abstract class Inscricao {
 
